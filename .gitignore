@@ -60,3 +60,7 @@ out/
 # Yarn
 .yarn/
 .pnp.*
+
+# Node.js dependencies
+node_modules/
+
